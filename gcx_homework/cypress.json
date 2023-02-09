@@ -1,0 +1,11 @@
+{
+"retries": {
+    "openMode": 0,
+    "runMode": 2
+  },
+  "testFiles": "*.spec.js",
+  "video": false,
+  "videoCompression": 15,
+  "viewportHeight": 1200,
+  "viewportWidth": 1280
+}

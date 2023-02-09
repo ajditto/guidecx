@@ -1,0 +1,11 @@
+{
+  "name": "guidecx_homework",
+  "author": "Andrew Ditto",
+  "email": "email",
+  "license": "UNLICENSED",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "cypress": "^9.5.0"
+  }
+}
