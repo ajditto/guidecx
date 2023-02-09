@@ -6,7 +6,7 @@ This is my takehome submission for GuideCX by Andrew Ditto
 
 [cypress docs](https://docs.cypress.io/guides/overview/why-cypress)
 
-### Clone Repo(Dont Fork)
+### Clone Repo
 ```
 git clone https://github.com/ajditto/guidecx.git
 ```
